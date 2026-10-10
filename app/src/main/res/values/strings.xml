@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lanzador de dados</string>
+    <string name="titulo">Lanzador de dados</string>
+    <string name="instrucciones">Pulsa el botón para obtener un número del 1 al 6.</string>
+    <string name="resultado_inicial">-</string>
+    <string name="lanzar_dado">Lanzar dado</string>
+</resources>
