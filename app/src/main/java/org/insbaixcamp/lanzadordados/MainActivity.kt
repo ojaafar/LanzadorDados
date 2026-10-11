@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
                 barras.bottom
             )
 
-            insetss
+            insets
         }
 
         // Buscamos los elementos que hemos creado en el XML
