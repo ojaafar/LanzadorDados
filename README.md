@@ -1,6 +1,6 @@
 # Lanzador de dados
 
-Aplicación Android sencilla realizada para la actividad **AEA1 — Aplicació Android senzilla** del módulo de Desarrollo de Interfaces.
+Aplicación Android sencilla realizada para la actividad **AEA1 — Aplicació Android senzilla**
 
 ## ¿Qué hace la aplicación?
 
