@@ -14,5 +14,5 @@ Se puede pulsar el botón tantas veces como se quiera. Un resultado puede repeti
 
 ## Captura de pantalla
 
-![Pantalla de la aplicación con el resultado de un lanzamiento]<img src="docs/captura.png" alt="Dado" width="230">
+<img src="docs/captura.png" alt="Dado" width="230">
 
