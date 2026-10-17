@@ -6,13 +6,13 @@ La aplicación simula el lanzamiento de un dado de seis caras. Al pulsar el bot�
 
 Se puede pulsar el botón tantas veces como se quiera. Un resultado puede repetirse en lanzamientos consecutivos, igual que con un dado real.
 
+## Captura de pantalla
+
+<img src="docs/captura.png" alt="Dado" width="400">
+
 ## Tecnologías utilizadas
 
 - **Kotlin**
 - **XML**
 - **Android Studio**
-
-## Captura de pantalla
-
-<img src="docs/captura.png" alt="Dado" width="400">
 
