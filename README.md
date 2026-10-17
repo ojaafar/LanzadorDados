@@ -15,7 +15,3 @@ Se puede pulsar el botón tantas veces como se quiera. Un resultado puede repeti
 ## Captura de pantalla
 
 ![Pantalla de la aplicación con el resultado de un lanzamiento](docs/captura.png)
-
-## Autor
-
-Ousama
