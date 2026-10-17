@@ -14,5 +14,5 @@ Se puede pulsar el botón tantas veces como se quiera. Un resultado puede repeti
 
 ## Captura de pantalla
 
-<img src="docs/captura.png" alt="Dado" width="400" margin="center">
+<img src="docs/captura.png" alt="Dado" width="400" margin="auto">
 
