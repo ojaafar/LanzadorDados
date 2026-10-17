@@ -14,4 +14,5 @@ Se puede pulsar el botón tantas veces como se quiera. Un resultado puede repeti
 
 ## Captura de pantalla
 
-![Pantalla de la aplicación con el resultado de un lanzamiento](docs/captura.png)
+![Pantalla de la aplicación con el resultado de un lanzamiento](<img src="docs/captura1.png" alt="Diseño inicial de la calculadora" width="230"> )
+
